@@ -14,6 +14,7 @@
 	top: 0px;
 	right: 0px;
 	z-index:1001;
+	background-color: purple;
 	width:100%;
 	min-height:100px;
 	transition:all 900ms ease;
@@ -21,8 +22,7 @@
 	-webkit-transition:all 900ms ease;
 	-ms-transition:all 900ms ease;
 	-o-transition:all 900ms ease;
-	padding-top:20px;
-	padding-bottom:20px;
+	
 }
 
 /* Header Upper */
@@ -856,6 +856,7 @@
 	-ms-transition-delay: 600ms;
 	-o-transition-delay: 600ms;
 	transition-delay: 600ms;
+	background-color: purple;
 }
 
 .mobile-menu .close-btn{
@@ -977,7 +978,7 @@
 	line-height: 24px;
 	padding: 12px 20px;
 	font-size: 16px;
-	color: var(--black-color);
+	color: white;
 	text-transform: capitalize;
 }
 

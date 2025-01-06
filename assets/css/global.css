@@ -326,7 +326,7 @@ textarea{
 p{
 	position:relative;
 	line-height:1.7em;
-	color:var(--color-four);
+	color:white;
 	font-size:16px;
 }
 
@@ -686,7 +686,7 @@ img{
 
 img{
 	display:inline-block;
-	max-width:100%;
+	max-width:125%;
 	height:auto;	
 }
 

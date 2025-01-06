@@ -97,7 +97,7 @@
 
 	.main-header{
 		position:relative;
-		background-color: var(--color-two);
+		background-color: purple;
 	}
 	
 	.main-header .mobile-nav-toggler{

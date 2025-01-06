@@ -58,7 +58,7 @@
 	right:0px;
 	bottom:0px;
 	opacity:0.90;
-	background-color:var(--color-four);
+	background-color:#000;
 }
 
 .banner-one_content{
@@ -74,7 +74,7 @@
 	font-weight:700;
 	text-align:center;
 	margin-bottom:80px;
-	color: var(--white-color);
+	color: #a34091;
 	text-transform:uppercase;
 }
 
@@ -85,7 +85,7 @@
 	padding-top:20px;
 	padding-right:180px;
 	color: var(--white-color);
-	border-top:1px solid #540045;
+	border-top:1px solid #d3c5d1;
 }
 
 .banner-one_text-two{
@@ -121,8 +121,7 @@
 .services-one{
 	position:relative;
 	padding:100px 0px 70px;
-	background: var(--main-color);
-	background: linear-gradient(to top, var(--main-color) 0%, var(--color-two) 100%);
+	background:linear-gradient(to top, var(--main-color) 0%, rgb(140 9 117) 100%);
 }
 
 .service-block_one{
@@ -844,6 +843,7 @@
 	position:relative;
 	font-size:120px;
 	line-height:1em;
+	margin-top: revert-layer;
 	color:var(--white-color);
 	text-transform:uppercase;
 }
